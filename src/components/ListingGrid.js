@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 const Section = styled.section`
   display: grid;
-  grid-template-columns: repeat(4, 250px);
+  grid-template-columns: repeat( auto-fit, minmax(260px, 1fr) );
   justify-content: space-between;
   row-gap:30px;
 `;
