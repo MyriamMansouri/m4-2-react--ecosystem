@@ -10,7 +10,8 @@ const GlobalStyles = createGlobalStyle`
     line-height: 1.3;
   }
   a {
-      text-decoration:none
+      text-decoration:none;
+      color:inherit;
   }
 `;
 

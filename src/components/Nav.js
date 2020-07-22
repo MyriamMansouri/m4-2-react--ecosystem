@@ -8,6 +8,7 @@ const Wrapper = styled.nav`
     margin: 0 20px;
     position: relative;
     font-weight:bold;
+    color:#4b1ce6;
   }
   a:last-child {
     margin-right: 0;
